@@ -4,6 +4,8 @@
 
 This project explores the application of Elastic Weight Consolidation (EWC) and Adaptive EWC optimizers in the context of training a Convolutional Neural Network (CNN) on the CIFAR-10 dataset. EWC is a technique used to mitigate catastrophic forgetting in continual learning scenarios by penalizing changes to important model parameters. Adaptive EWC extends this concept by dynamically adjusting the regularization strength based on gradient magnitudes. This project demonstrates the implementation and comparison of these techniques to improve model performance and stability over multiple tasks.
 
+Project was an advanced project for the course Advanced Machine Learning at NYU Tandon School of Engineering
+
 ## Table of Contents
 
 - [Project Description](#project-description)
